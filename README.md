@@ -13,6 +13,7 @@ Atualmente direciono minha carreira para Tecnologia, com interesse em desenvolvi
 * Angular
 * Java
 * Spring Boot
+* Python
 * C#
 * .NET
 * Node.js
