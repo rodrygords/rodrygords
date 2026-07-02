@@ -38,7 +38,7 @@ Tenho experiência anterior com gestão administrativa, atendimento ao cliente, 
 
 API REST para gerenciamento de clientes e orçamentos de serviços de telhado, com cálculo automático do valor total, status do orçamento, SQLite, Entity Framework Core, DTOs, services e Swagger.
 
-🔗 Repositório: https://github.com/rodrygords/sistema-orcamentos-telhado
+🔗 Repositório: https://github.com/rodrygords/sistema-orcamentos-telhados
 
 ### API de Gerenciamento de Usuários — C# / .NET
 
