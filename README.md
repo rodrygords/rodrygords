@@ -34,6 +34,12 @@ Tenho experiência anterior com gestão administrativa, atendimento ao cliente, 
 
 ## 📌 Projetos em destaque
 
+### Sistema de Orçamentos para Telhados — C# / .NET
+
+API REST para gerenciamento de clientes e orçamentos de serviços de telhado, com cálculo automático do valor total, status do orçamento, SQLite, Entity Framework Core, DTOs, services e Swagger.
+
+🔗 Repositório: https://github.com/rodrygords/sistema-orcamentos-telhado
+
 ### API de Gerenciamento de Usuários — C# / .NET
 
 API REST para gerenciamento de usuários, com CRUD, validações, Entity Framework Core, SQLite, Swagger, DTOs e organização em camadas.
