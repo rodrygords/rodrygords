@@ -1,64 +1,76 @@
-# Rodrygo de Souza
+# Olá, eu sou o Rodrygo de Souza 👋
 
-Profissional em transição para a área de Tecnologia, atualmente cursando o 3º semestre de Análise e Desenvolvimento de Sistemas na ULBRA.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na ULBRA** e estou em transição para a área de Tecnologia, buscando minha primeira oportunidade profissional como **estágio, trainee ou desenvolvedor júnior**.
 
-Tenho experiência profissional nas áreas administrativa, gestão empresarial, atendimento ao cliente, construção civil e licitações públicas. Atuei como sócio proprietário de uma construtora, com responsabilidades ligadas à gestão financeira, organização de documentos, relacionamento com clientes, fornecedores e execução de obras públicas.
+Tenho experiência profissional anterior em gestão administrativa, atendimento ao cliente, organização de processos, construção civil e licitações públicas. Hoje estou direcionando essa vivência para a tecnologia, desenvolvendo projetos acadêmicos e pessoais com foco em **desenvolvimento web, backend, banco de dados e boas práticas de programação**.
 
-Atualmente direciono minha carreira para Tecnologia, com interesse em desenvolvimento web, infraestrutura, redes, suporte técnico e telecomunicações.
+---
 
-## Tecnologias e conhecimentos em estudo
+## 🚀 Tecnologias que estou estudando e praticando
 
-* JavaScript
-* TypeScript
-* Angular
-* Java
-* Spring Boot
-* Python
-* C#
-* .NET
-* Node.js
-* SQL
-* MongoDB
-* Docker
-* Linux
-* Git e GitHub
-* Redes de Computadores
-* Hardware
-* Pacote Office
-* Excel Avançado
+**Linguagens e desenvolvimento**
+- JavaScript
+- TypeScript
+- Java
+- C#
+- Python
 
-## Experiência e habilidades profissionais
+**Backend e banco de dados**
+- .NET / ASP.NET Core
+- Java / Spring Boot
+- SQL
+- MongoDB
+- APIs REST
 
-* Gestão administrativa
-* Controle financeiro
-* Atendimento ao cliente
-* Licitações públicas
-* Emissão de documentos e notas fiscais
-* Controle de estoque
-* E-commerce
-* Organização de processos
-* Trabalho em equipe
-* Comunicação
-* Aprendizado rápido
-* Resolução de problemas
+**Front-end**
+- HTML5
+- CSS3
+- JavaScript
+- Angular
 
-## Projetos em destaque
+**Ferramentas**
+- Git e GitHub
+- Docker
+- Linux
+- Postman
+- Swagger
 
-* CRUD Web com Angular
-* API REST com Java e Spring Boot
-* API de usuários com C# e .NET
-* Projetos com banco de dados SQL e MongoDB
-* Estudos com Docker, Linux e GitHub
+---
 
-## Objetivo profissional
+## 📌 Projetos em destaque
 
-Busco oportunidades para iniciar minha carreira profissional na área de Tecnologia, especialmente em desenvolvimento, suporte técnico, infraestrutura, redes e telecomunicações.
+### API de Gerenciamento de Usuários — C# / .NET
+API REST para cadastro, consulta, atualização e remoção lógica de usuários, utilizando arquitetura em camadas, validações, Entity Framework Core, SQLite, Swagger e boas práticas de organização backend.
 
-Meu objetivo é unir minha experiência profissional anterior com os conhecimentos adquiridos na graduação em Análise e Desenvolvimento de Sistemas, evoluindo continuamente e contribuindo com responsabilidade, organização e vontade de aprender.
+### Lista de Estudos — JavaScript
+Aplicação front-end dinâmica para cadastro de itens de estudo, validação de formulário, manipulação de DOM e consumo de API externa com `fetch` e `async/await`.
 
-## Contato
+### Lista de Tarefas Interativa — HTML, CSS e JavaScript
+Projeto web com criação, conclusão e exclusão de tarefas, organização por prioridade e manipulação de elementos com JavaScript puro.
 
-* LinkedIn: https://br.linkedin.com/in/rodrygo-de-souza
-* GitHub: https://github.com/rodrygords
-* E-mail: [rodrygoulbra@gmail.com](mailto:rodrygoulbra@gmail.com)
-* Localização: Arroio do Sal - RS
+### API Users — Java / Spring Boot
+Projeto backend em Java com Spring Boot, criado para praticar estrutura de API, organização de código e desenvolvimento de aplicações web.
+
+---
+
+## 🎯 Objetivo profissional
+
+Busco uma oportunidade de entrada na área de Tecnologia onde eu possa aprender com profissionais mais experientes, contribuir em tarefas reais e evoluir tecnicamente.
+
+Tenho interesse em atuar com:
+
+- Desenvolvimento web
+- Backend
+- Suporte técnico
+- QA / Testes
+- Banco de dados
+- Infraestrutura e redes
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://br.linkedin.com/in/rodrygo-de-souza
+- GitHub: https://github.com/rodrygords
+- E-mail: rodrygoulbra@gmail.com
+- Localização: Arroio do Sal - RS
