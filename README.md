@@ -41,10 +41,12 @@ API REST para gerenciamento de usuários, com CRUD, validações, Entity Framewo
 ### Lista de Estudos — JavaScript
 
 Aplicação front-end para cadastro de itens de estudo, com validação de formulário, manipulação de DOM e consumo de API externa com `fetch` e `async/await`.
+🔗 Projeto online: https://rodrygords.github.io/AP1-aplicacoes-front-end/
 
 ### Lista de Tarefas Interativa — HTML, CSS e JavaScript
 
 Projeto web com criação, conclusão e exclusão de tarefas, organização por prioridade e manipulação de elementos com JavaScript puro.
+🔗 Projeto online: https://rodrygords.github.io/Lista-de-Tarefas-AS-Front/
 
 ### Projeto Acadêmico de Desenvolvimento Backend — C# / .NET
 
