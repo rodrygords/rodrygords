@@ -2,25 +2,20 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas na ULBRA** e estou em transição para a área de Tecnologia, buscando minha primeira oportunidade profissional como **estágio, trainee ou desenvolvedor júnior**.
 
-Tenho experiência profissional anterior em gestão administrativa, atendimento ao cliente, organização de processos, construção civil e licitações públicas. Hoje estou direcionando essa vivência para a tecnologia, desenvolvendo projetos acadêmicos e pessoais com foco em **desenvolvimento web, backend, banco de dados e boas práticas de programação**.
+Tenho experiência anterior com gestão administrativa, atendimento ao cliente, organização de processos, construção civil e licitações públicas. Hoje estou direcionando essa vivência para a tecnologia, desenvolvendo projetos acadêmicos e pessoais com foco em **desenvolvimento web, backend, banco de dados e boas práticas de programação**.
 
 ---
 
 ## 🚀 Tecnologias que estou estudando e praticando
 
-**Linguagens e desenvolvimento**
-- JavaScript
-- TypeScript
-- Java
-- C#
-- Python
-
-**Backend e banco de dados**
-- .NET / ASP.NET Core
+**Backend**
+- C# / .NET
 - Java / Spring Boot
+- APIs REST
+- DTOs
+- Entity Framework Core
 - SQL
 - MongoDB
-- APIs REST
 
 **Front-end**
 - HTML5
@@ -40,16 +35,20 @@ Tenho experiência profissional anterior em gestão administrativa, atendimento 
 ## 📌 Projetos em destaque
 
 ### API de Gerenciamento de Usuários — C# / .NET
-API REST para cadastro, consulta, atualização e remoção lógica de usuários, utilizando arquitetura em camadas, validações, Entity Framework Core, SQLite, Swagger e boas práticas de organização backend.
+
+API REST para gerenciamento de usuários, com CRUD, validações, Entity Framework Core, SQLite, Swagger, DTOs e organização em camadas.
 
 ### Lista de Estudos — JavaScript
-Aplicação front-end dinâmica para cadastro de itens de estudo, validação de formulário, manipulação de DOM e consumo de API externa com `fetch` e `async/await`.
+
+Aplicação front-end para cadastro de itens de estudo, com validação de formulário, manipulação de DOM e consumo de API externa com `fetch` e `async/await`.
 
 ### Lista de Tarefas Interativa — HTML, CSS e JavaScript
+
 Projeto web com criação, conclusão e exclusão de tarefas, organização por prioridade e manipulação de elementos com JavaScript puro.
 
-### API Users — Java / Spring Boot
-Projeto backend em Java com Spring Boot, criado para praticar estrutura de API, organização de código e desenvolvimento de aplicações web.
+### Projeto Acadêmico de Desenvolvimento Backend — C# / .NET
+
+Projeto desenvolvido durante a disciplina de Desenvolvimento Backend, a partir de repositório-base do professor. Minha contribuição foi focada na criação e organização dos DTOs.
 
 ---
 
@@ -59,8 +58,8 @@ Busco uma oportunidade de entrada na área de Tecnologia onde eu possa aprender 
 
 Tenho interesse em atuar com:
 
+- Desenvolvimento backend
 - Desenvolvimento web
-- Backend
 - Suporte técnico
 - QA / Testes
 - Banco de dados
@@ -70,7 +69,7 @@ Tenho interesse em atuar com:
 
 ## 📫 Contato
 
-- LinkedIn: https://br.linkedin.com/in/rodrygo-de-souza
+- LinkedIn: https://www.linkedin.com/in/rodrygo-de-souza/
 - GitHub: https://github.com/rodrygords
 - E-mail: rodrygoulbra@gmail.com
 - Localização: Arroio do Sal - RS
